@@ -104,7 +104,7 @@ nav img{
 	color: white;
 }
 
-@media (width < 500px){
+@media (width < 800px){
 	nav img{
 		width: 150px;
 	}
@@ -138,7 +138,7 @@ nav img{
 	box-shadow: 0 0 20px 0px rgba(0,0,0,0.2)
 }
 
-@media(width < 500px){
+@media(width < 800px){
 	.about-row{
 		display: inline-block;
 		margin-top: 0;
@@ -181,7 +181,7 @@ nav img{
 	color: white;
 }
 
-@media(width<500px){
+@media(width < 800px){
 	.products-row{
 		display: inline-block;
 		margin: 0;
